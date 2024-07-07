@@ -1,1 +1,5 @@
-
+{
+    "whitelisted_hwids": [
+        "AD0C8C78-4A94-413F-BC84-72B0E3C0C69B"
+    ]
+}
